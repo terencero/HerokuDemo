@@ -1,1 +1,1 @@
-<?php include_once("positioning.html"); ?>
+<?php include_once("position.html"); ?>
